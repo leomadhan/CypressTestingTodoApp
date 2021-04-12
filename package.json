@@ -7,7 +7,7 @@
     "cypress:open": "cypress open",
     "testCli": "cypress run --config pageLoadTimeout=10000 --browser chrome --spec"
   },
-  "author": "",
+  "author": "MMM",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^7.0.1"
