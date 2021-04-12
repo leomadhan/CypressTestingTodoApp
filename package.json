@@ -1,0 +1,15 @@
+{
+  "name": "quintype-cypress",
+  "version": "1.0.0",
+  "description": "cypress-code",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "testCli": "cypress run --config pageLoadTimeout=10000 --browser chrome --spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.0.1"
+  }
+}
